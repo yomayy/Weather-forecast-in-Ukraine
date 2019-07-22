@@ -47,7 +47,7 @@ namespace SinoptikMax
             new City(){ Name = "Харьков", Path = @"..\..\Data\Harkov.xml", Url = "http://www.pogoda.by/rss2/cityrss.php?q=34300" },
             new City(){ Name = "Херсон", Path = @"..\..\Data\Herson.xml", Url = "http://www.pogoda.by/rss2/cityrss.php?q=33902" },
             new City(){ Name = "Хмельницкий", Path = @"..\..\Data\Khmelnitskiy.xml", Url = "http://www.pogoda.by/rss2/cityrss.php?q=33429" },
-            new City(){ Name = "Чернигов", Path = @"..\..\Data\Chernihov.xml", Url = "http://www.pogoda.by/rss2/cityrss.php?q=33231" }
+            new City(){ Name = "Чернигов", Path = @"..\..\Data\Chernihov.xml", Url = "http://www.pogoda.by/rss2/cityrss.php?q=33135" }
         };
 
         public MainWindow()

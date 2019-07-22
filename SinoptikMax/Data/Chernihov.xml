@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>POGODA.BY | Фактическая погода Чернобыль, UA</title>
-<link>http://www.pogoda.by/rss2/cityrss.php?q=33231</link>
-<description><![CDATA[Гидромет Беларуси. Фактическая погода Чернобыль, UA.]]></description>
+<title>POGODA.BY | Фактическая погода Чернигов, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33135</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Чернигов, UA.]]></description>
 <language>ru-ru</language>
  <item>
- <title>Чернобыль - фактическая погода за Thu, 18 Jul 2019 12:00:00 GMT</title>
- <link>http://www.pogoda.by/33231</link>
- <guid isPermaLink="false">332311563440400</guid>
- <pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
- <description><![CDATA[Температура +19.9&#176;C  | Давление 1009 гПа, растет | Ветер 2 м/с, Западный | Погода: Без особых явлений | Видимость 10.0 км | Влажность 56%]]></description>
+ <title>Чернигов - фактическая погода за Mon, 22 Jul 2019 12:00:00 GMT</title>
+ <link>http://www.pogoda.by/33135</link>
+ <guid isPermaLink="false">331351563786000</guid>
+ <pubDate>Mon, 22 Jul 2019 12:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +20.0&#176;C  | Давление 1016 гПа, растет | Ветер 5 м/с, С-З | Погода: Ливневый дождь | Видимость 10.0 км | Влажность 89%]]></description>
  </item>
 </channel>
 </rss>
