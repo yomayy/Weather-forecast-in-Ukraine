@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Днепропетровск, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=34504</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Днепропетровск, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Днепропетровск - фактическая погода за Wed, 17 Jul 2019 21:00:00 GMT</title>
+ <link>http://www.pogoda.by/34504</link>
+ <guid isPermaLink="false">345041563386400</guid>
+ <pubDate>Wed, 17 Jul 2019 21:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +19.9&#176;C  | Давление 1007 гПа, растет | Ветер 2 м/с, С-З | Погода: Без особых явлений | Видимость 10.0 км | Влажность 57%]]></description>
+ </item>
+</channel>
+</rss>

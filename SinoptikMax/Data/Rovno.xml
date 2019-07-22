@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Ровно, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33301</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Ровно, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Ровно - фактическая погода за Thu, 18 Jul 2019 12:00:00 GMT</title>
+ <link>http://www.pogoda.by/33301</link>
+ <guid isPermaLink="false">333011563440400</guid>
+ <pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +17.3&#176;C  | Давление 1012 гПа, растет | Ветер 6 м/с, С-З | Погода: Без особых явлений | Видимость 10.0 км | Влажность 69%]]></description>
+ </item>
+</channel>
+</rss>

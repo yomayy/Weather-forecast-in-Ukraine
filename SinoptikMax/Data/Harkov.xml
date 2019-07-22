@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Харьков, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=34300</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Харьков, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Харьков - фактическая погода за Thu, 18 Jul 2019 12:00:00 GMT</title>
+ <link>http://www.pogoda.by/34300</link>
+ <guid isPermaLink="false">343001563440400</guid>
+ <pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +22.8&#176;C  | Давление 1008 гПа, растет | Ветер 5 м/с, Ю-З | Погода: Без особых явлений | Видимость 10.0 км | Влажность 40%]]></description>
+ </item>
+</channel>
+</rss>

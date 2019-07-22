@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Львов, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33393</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Львов, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Львов - фактическая погода за Wed, 17 Jul 2019 15:00:00 GMT</title>
+ <link>http://www.pogoda.by/33393</link>
+ <guid isPermaLink="false">333931563364800</guid>
+ <pubDate>Wed, 17 Jul 2019 15:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +16.5&#176;C  | Давление 1010 гПа, падает | Ветер 2 м/с, С-З | Погода: Ливневый дождь | Видимость 10.0 км | Влажность 79%]]></description>
+ </item>
+</channel>
+</rss>

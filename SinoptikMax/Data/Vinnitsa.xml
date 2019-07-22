@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Винница, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33562</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Винница, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Винница - фактическая погода за Wed, 17 Jul 2019 21:00:00 GMT</title>
+ <link>http://www.pogoda.by/33562</link>
+ <guid isPermaLink="false">335621563386400</guid>
+ <pubDate>Wed, 17 Jul 2019 21:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +14.3&#176;C  | Давление 1009 гПа, растет | Ветер 4 м/с, Западный | Погода: Ливневый дождь | Видимость 10.0 км | Влажность 87%]]></description>
+ </item>
+</channel>
+</rss>

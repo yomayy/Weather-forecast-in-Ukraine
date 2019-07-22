@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Херсон, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33902</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Херсон, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Херсон - фактическая погода за Wed, 17 Jul 2019 15:00:00 GMT</title>
+ <link>http://www.pogoda.by/33902</link>
+ <guid isPermaLink="false">339021563364800</guid>
+ <pubDate>Wed, 17 Jul 2019 15:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +28.3&#176;C  | Давление 1007 гПа, падает | Ветер 3 м/с, Ю-З | Погода: Без особых явлений | Видимость 10.0 км | Влажность 30%]]></description>
+ </item>
+</channel>
+</rss>

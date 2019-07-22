@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Запорожье, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=34601</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Запорожье, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Запорожье - фактическая погода за Wed, 17 Jul 2019 21:00:00 GMT</title>
+ <link>http://www.pogoda.by/34601</link>
+ <guid isPermaLink="false">346011563386400</guid>
+ <pubDate>Wed, 17 Jul 2019 21:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +22.2&#176;C  | Давление 1007 гПа, растет | Ветер 2 м/с, Западный | Погода: Без особых явлений | Видимость 10.0 км | Влажность 45%]]></description>
+ </item>
+</channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Житомир, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33325</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Житомир, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Житомир - фактическая погода за Wed, 17 Jul 2019 21:00:00 GMT</title>
+ <link>http://www.pogoda.by/33325</link>
+ <guid isPermaLink="false">333251563386400</guid>
+ <pubDate>Wed, 17 Jul 2019 21:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +15.0&#176;C  | Давление 1008 гПа, растет | Ветер 1 м/с, Ю-З | Погода: Без особых явлений | Видимость 10.0 км | Влажность 85%]]></description>
+ </item>
+</channel>
+</rss>

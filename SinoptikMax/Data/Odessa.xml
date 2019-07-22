@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Одесса, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33837</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Одесса, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Одесса - фактическая погода за Thu, 18 Jul 2019 12:00:00 GMT</title>
+ <link>http://www.pogoda.by/33837</link>
+ <guid isPermaLink="false">338371563440400</guid>
+ <pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +25.0&#176;C  | Давление 1012 гПа, растет | Ветер 4 м/с, С-В | Погода: Без особых явлений | Видимость 10.0 км | Влажность 35%]]></description>
+ </item>
+</channel>
+</rss>

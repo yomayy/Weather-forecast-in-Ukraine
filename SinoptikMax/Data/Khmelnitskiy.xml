@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Хмельницкий, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33429</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Хмельницкий, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Хмельницкий - фактическая погода за Thu, 18 Jul 2019 12:00:00 GMT</title>
+ <link>http://www.pogoda.by/33429</link>
+ <guid isPermaLink="false">334291563440400</guid>
+ <pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +19.2&#176;C  | Давление 1012 гПа, растет | Ветер 5 м/с, С-З | Погода: Без особых явлений | Видимость 10.0 км | Влажность 53%]]></description>
+ </item>
+</channel>
+</rss>

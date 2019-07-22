@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>POGODA.BY | Фактическая погода Луцк, UA</title>
+<link>http://www.pogoda.by/rss2/cityrss.php?q=33187</link>
+<description><![CDATA[Гидромет Беларуси. Фактическая погода Луцк, UA.]]></description>
+<language>ru-ru</language>
+ <item>
+ <title>Луцк - фактическая погода за Thu, 18 Jul 2019 12:00:00 GMT</title>
+ <link>http://www.pogoda.by/33187</link>
+ <guid isPermaLink="false">331871563440400</guid>
+ <pubDate>Thu, 18 Jul 2019 12:00:00 GMT</pubDate>
+ <description><![CDATA[Температура +16.3&#176;C  | Давление 1013 гПа, растет | Ветер 2 м/с, Западный | Погода: Без особых явлений | Видимость 10.0 км | Влажность 72%]]></description>
+ </item>
+</channel>
+</rss>
